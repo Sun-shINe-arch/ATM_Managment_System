@@ -1,4 +1,4 @@
-package JDBC;
+package JDBC;   // Remove this line while running in your compiler
 
 import java.sql.Connection;
 import java.sql.DriverManager;
